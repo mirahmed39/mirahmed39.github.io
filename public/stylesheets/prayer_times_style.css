@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+#prayer_times_container {
+    max-width: 890px;
+    margin: 0 auto;
+}
+
+#prayer_times_container > table {
+    transition-timing-function: ease-in;
+}
+
+#prayer_times_container .first-row {
+    background-color: burlywood;
+}
